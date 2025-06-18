@@ -1,5 +1,6 @@
 ---
 id: req001
+type: asset
 title: User Authentication
 category: Security
 tags:

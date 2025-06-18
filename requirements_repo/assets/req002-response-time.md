@@ -1,5 +1,6 @@
 ---
 id: req002
+type: asset
 title: Response Time
 category: Non-Functional
 tags:

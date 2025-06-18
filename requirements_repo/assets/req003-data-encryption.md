@@ -1,5 +1,6 @@
 ---
 id: req003
+type: asset
 title: Data Encryption
 category: Security
 tags:
