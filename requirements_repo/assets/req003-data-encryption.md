@@ -8,6 +8,11 @@ tags:
 products:
   - ProductA
   - ProductB
+
+question: can your solution…
+description: accommodate multiple lines of business/subsidiaries within the Delaware North portfolio
+response: 
+notes: 
 ---
 
 All sensitive data must be encrypted at rest and in transit using AES-256.
