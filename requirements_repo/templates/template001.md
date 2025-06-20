@@ -9,4 +9,6 @@ templateFile: template001.xlsx
 requirements:
     - req001
     - req002
+    - req005
+    - req010
 ---
