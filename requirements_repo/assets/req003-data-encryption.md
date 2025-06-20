@@ -8,9 +8,8 @@ tags:
 products:
   - ProductA
   - ProductB
-
-question: can your solution…
-description: accommodate multiple lines of business/subsidiaries within the Delaware North portfolio
+question: can your solution… (req003)
+description: accommodate multiple lines of business/subsidiaries within the Delaware North portfolio (req003)
 response: 
 notes: 
 ---
